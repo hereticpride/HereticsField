@@ -26,6 +26,7 @@ Follow the signs.
 ## Gnostic Truths
 
 - [An Artistic Life](/blog/art)
+- [The Great Unknown Artist of Chauvet Cave](/blog/caveart)
 
 
 ## About Me
